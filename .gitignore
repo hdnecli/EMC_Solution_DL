@@ -1,0 +1,11 @@
+ogret
+data_150.pkl
+errors
+images
+Panels
+mem
+PCBs
+*.bak
+*.dat
+*.dir
+model.ipynb

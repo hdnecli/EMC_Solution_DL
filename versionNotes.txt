@@ -1,0 +1,15 @@
+-Database file sized has been minimized. Approximately 2000/1.
+-Database was changed. Shelve to Columnar Database(Parquet).
+-Xls button was deleted.
+-Dataframe preparation time has been minimized. Approximately 2/1.
+-Parquet yükle button has been added.
+-Parquet yükle button will use from now on.
+-'add none to missing P' button was added to add none to missing data.
+-'show last 10 P' button was added to show data base. Hence, time of opening data base was minimized. Approximately 20/1.
+- Delete Parquet object was not added, it have to be add. !!!
+- Dataframe preparation time has been minimized. 
+- Test names was added. Format: DVB-C, DVB-S, DVB-S2, DVB-T, DVB-T2, ANALOG(ANALOG MOD), STAND(STAND BY MOD).
+
+-preprocessing için df_prep_exp kullanılacak. Kullanırken altta dosya ismini değiştir.
+-handledatabase için learnddb de verilere bakmak için parqeut kısmı diğer yerler için(panel,psu,vb.) shelve kullanılacak. 
+-Veri yüklemek için parquet yükle kullanılacak.
